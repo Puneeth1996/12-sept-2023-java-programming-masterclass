@@ -16,7 +16,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet --
 3. First Steps
 4. IntelliJ Basics
 5. Expressions Statements More
-6. Control Flow  --
+6. Control Flow
 
 ![*Java and javac versions*](./screenshot/Screenshot%20(532).png)
 
