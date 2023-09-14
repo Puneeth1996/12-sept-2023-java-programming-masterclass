@@ -19,5 +19,5 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet --
 6 - Control Flow
 
 
-![JavaVersion][screenshot\Screenshot (532).png]
+![JavaVersion][./screenshot/Screenshot (532).png]
 
