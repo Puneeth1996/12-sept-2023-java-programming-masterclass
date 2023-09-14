@@ -5,14 +5,11 @@
 Markdown Cheat sheet
 
 
-https://www.interviewbit.com/markdown-cheat-sheet/
+https://www.interviewbit.com/markdown-cheat-sheet/ --
 
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet --
 
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
-
-https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0
-
+https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0 -- 
 
 ---
 
