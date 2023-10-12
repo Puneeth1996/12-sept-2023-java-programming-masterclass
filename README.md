@@ -20,3 +20,6 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet --
 
 ![*Java and javac versions*](./screenshot/Screenshot%20(532).png)
 
+> First steps help in understanding different primitive data types. Java mainly uses a int and double.
+> installing the intelliJ IDE Edior. Operators, logical operator and operator precedance.
+> 
